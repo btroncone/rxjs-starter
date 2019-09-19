@@ -18,4 +18,4 @@ After running `npm start` you can navigate to the development server running on
 an automatic reload.
 
 Feel free to ping me on Ultimate Courses slack or on Twitter
-[@btroncone](http://twitter.com/btroncone) if your run into any issues!
+[@btroncone](http://twitter.com/btroncone) if you run into any issues!
